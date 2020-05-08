@@ -1,0 +1,9 @@
+mods/
+saves/
+shaderpacks/
+texturepacks/
+resourcepacks/
+.mixin.out/
+server-resource-packs/
+
+
